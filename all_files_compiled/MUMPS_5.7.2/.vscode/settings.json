@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.f90": "fsharp",
+        "*.edp": "cpp",
+        "dmumps_c.h": "c"
+    }
+}
